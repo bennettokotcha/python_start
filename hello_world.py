@@ -41,3 +41,4 @@ fav_food1 = 'rice'
 fav_food1A = 'stew'
 print("I love to eat {} and {}.".format(fav_food1, fav_food1A))
 print(f"I love to eat {fav_food1} and {fav_food1A}.") 
+# this was fun to learn something new, i want to see if i can rememebr how to these chnages and merge them to my local console!
